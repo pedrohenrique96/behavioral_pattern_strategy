@@ -6,7 +6,7 @@ This is a TypeScript project that demonstrates how to implement the Open/Closed 
 
 To get started with this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/example/example.git`
+1. Clone this repository: `https://github.com/pedrohenrique96/behavioral_pattern_strategy`
 2. Install the dependencies: `npm install`
 3. Build the project: `npm run build`
 4. Run the project: `npm run start`
